@@ -1,4 +1,9 @@
 .text-justify {
-    text-indent: 2rem;
     text-align: justify;
+}
+
+@media (max-width: 1199.98px) {
+    .text-justify {
+        text-indent: 2rem;
+    }
 }
