@@ -650,7 +650,8 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-    background: url(../img/umaru-bg.jpg) top center no-repeat;
+    background: url(../img/umaru_ls.jpg) top center no-repeat;
+    filter: grayscale(50%);
     background-size: cover;
     width: 100%;
     min-height: 90vh;
@@ -659,6 +660,20 @@ section,
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+@media (max-width: 991.98px) {
+    .hero {
+        background: url(../img/umaru_pr.jpg) top center no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 90vh;
+        position: relative;
+        padding: 120px 0 60px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 .hero:before {
