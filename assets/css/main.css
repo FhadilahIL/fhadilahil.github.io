@@ -651,7 +651,6 @@ section,
 --------------------------------------------------------------*/
 .hero {
     background: url(../img/umaru_ls.jpg) top center no-repeat;
-    filter: grayscale(50%);
     background-size: cover;
     width: 100%;
     min-height: 90vh;
