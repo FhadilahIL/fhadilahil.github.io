@@ -9,10 +9,10 @@
     let forms = document.querySelectorAll('.email-form');
 
     const fields = {
-        'contact_name': 'Nama Harus Diisi',
-        'contact_email': 'Email Harus Diisi',
-        'contact_subject': 'Subject Harus Diisi',
-        'contact_message': 'Message Harus Diisi'
+        'contact_name': 'Name column cannot be empty. Please enter your Name.',
+        'contact_email': 'Email column cannot be empty. Please enter your Email.',
+        'contact_subject': 'Subject column cannot be empty. Please enter the Subject.',
+        'contact_message': 'Message column cannot be empty. Please enter your Message.'
     };
 
     forms.forEach( function(e) {
