@@ -18,7 +18,7 @@ As a Software Quality Assurance professional, I specialize in:
 
 Feel free to reach out if you have any questions or would like to discuss potential opportunities.
 
-- **Email**: [email@example.com](mailto:ilhamfhadilah8199@gmail.com)
+- **Email**: [ilhamfhadilah8199@gmail.com](mailto:ilhamfhadilah8199@gmail.com)
 - **LinkedIn**: [linkedin.com/in/fhadilahil](https://linkedin.com/in/fhadilahil)
 - **GitHub**: [github.com/fhadilahil](https://github.com/fhadilahil)
 
