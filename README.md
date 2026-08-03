@@ -11,8 +11,8 @@ As a Software Quality Assurance professional, I specialize in:
 
 ## Experience
 
-- **Testing Types**: Unit Testing, Integration Testing, End-to-End Testing, Performance Testing, Load Testing
-- **Tools & Technologies**: Selenium, GitHub Actions, Cypress
+- **Testing Types**: Unit Testing, Integration Testing, End-to-End Testing
+- **Tools & Technologies**: Selenium, Cypress, Playwright, Tricentis Tosca
 
 ## Contact Me
 

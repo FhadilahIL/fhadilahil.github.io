@@ -9,7 +9,7 @@ function showAge() {
         age--;
     }
     
-    document.getElementById('birthday').textContent = `${myBirthDay.format('DD MMMM YYYY')}`;
+    document.getElementById('birthday').textContent = `${myBirthDay.format('MMMM DD, YYYY')}`;
     document.getElementById('age').textContent = `${age} Years`;
 }
 
